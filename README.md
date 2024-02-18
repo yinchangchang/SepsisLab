@@ -2,7 +2,7 @@
 
 This repository contains the official PyTorch implementation of the following paper:
 
-> **Identifying Sepsis Subphenotypes via Time-Aware Multi-ModalAuto-Encoder (KDD2020)**<br>
+> **SepsisLab: Early Sepsis Prediction with Uncertainty Quantification and Active Sensing**<br>
 > Changchang yin, Pin-Yu Chen, Bingsheng Yao, Dakuo Wang, Jeffrey Caterino, Ping Zhang<br>
 > [paper]()
 >
